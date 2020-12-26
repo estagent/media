@@ -1,0 +1,12 @@
+{
+  "name": "@revgaming/location",
+  "author": "estagent <estagent@gmail.com>",
+  "version": "1.0.1",
+  "description": "sound and video library",
+  "homepage": "https://github.com/estagent/app",
+  "main": "src/index.js",
+  "dependencies": {
+    "@revgaming/preference": "^1.0.1"
+  },
+  "scripts": {}
+}
