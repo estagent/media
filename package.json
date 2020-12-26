@@ -1,12 +1,16 @@
 {
-  "name": "@revgaming/location",
+  "name": "@revgaming/media",
   "author": "estagent <estagent@gmail.com>",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "sound and video library",
-  "homepage": "https://github.com/estagent/app",
+  "homepage": "https://github.com/estagent/media",
   "main": "src/index.js",
   "dependencies": {
     "@revgaming/preference": "^1.0.1"
   },
-  "scripts": {}
+  "keywords": [
+    "javascript",
+    "media",
+    "mute"
+  ]
 }
