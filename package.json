@@ -1,7 +1,7 @@
 {
   "name": "@revgaming/media",
   "author": "estagent <estagent@gmail.com>",
-  "version": "1.0.2",
+  "version": "2.1.1",
   "description": "sound and video library",
   "homepage": "https://github.com/estagent/media",
   "main": "src/index.js",
