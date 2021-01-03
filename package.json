@@ -1,12 +1,13 @@
 {
   "name": "@revgaming/media",
   "author": "estagent <estagent@gmail.com>",
-  "version": "2.1.1",
-  "description": "sound and video library",
+  "version": "3.0.1",
+  "description": "sound and video library for revgaming global",
   "homepage": "https://github.com/estagent/media",
   "main": "src/index.js",
   "dependencies": {
-    "@revgaming/preference": "^1.0.1"
+    "@revgaming/preference": "^1.0.1",
+    "howler": "^2.2.1"
   },
   "keywords": [
     "javascript",
