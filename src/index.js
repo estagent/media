@@ -1,5 +1,5 @@
 import Preference from '@revgaming/preference'
-import {player, setPublicPath} from './player'
+import {player, setPublicPath, playOnEvents} from './player'
 
 const options = {
   toggled: 'sound-toggled',
@@ -28,6 +28,7 @@ export const bootMedia = options => {
     mute: mute,
     toggleMute: toggleMute,
     setSoundPath: setPublicPath,
+    playOnEvents: playOnEvents,
     getPlayer: () => player,
   }
 }
